@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Interface;
+	cell = PSLinkCell;
+	detail = InterfaceListController;
+	icon = Interface.png;
+	isController = 1;
+	label = Interface;
+    };
+}

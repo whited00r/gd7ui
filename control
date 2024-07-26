@@ -1,0 +1,9 @@
+Package: com.greyd00r.gd7ui
+Name: gd7ui
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Grayd00r
+Author: Grayd00r
+Section: Tweaks
